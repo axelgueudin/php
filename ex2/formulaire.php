@@ -1,5 +1,5 @@
-<?php session_start(); ?>
-
+<?php session_start();
+?>
 <form method="POST" action="authentification.php">
   <label for="login">LOGIN</label>
   <input type="text" id="login" name="login" value="">
